@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'southeastasia'
-RESOURCE_NAME_PREFIX: 'hieuapimdemo'
+RESOURCE_NAME_PREFIX: 'hieuapim'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
